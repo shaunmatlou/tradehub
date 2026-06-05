@@ -1,0 +1,11 @@
+# Sensitive files
+includes/db.php
+
+# XAMPP/system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Uploaded images
+assets/img/uploads/*
+!assets/img/uploads/.gitkeep
